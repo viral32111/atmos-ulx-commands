@@ -35,7 +35,7 @@ Limitations:
 * Liability - This license includes a limitation of liability.
 * Warranty - The license explicitly states that it does NOT provide any warranty.
 
->Car Keys - A SWEP that lets players lock, unlock, buy and sell vehicles.
+>Atmos ULX commands - A few ULX commands to control Atmos time & weather.
 >
 >Copyright (C) 2020 viral32111
 >
