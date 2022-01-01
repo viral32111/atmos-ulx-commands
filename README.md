@@ -37,7 +37,7 @@ Limitations:
 
 >Atmos ULX commands - A few ULX commands to control Atmos time & weather.
 >
->Copyright (C) 2020 - 2021 viral32111
+>Copyright (C) 2020 - 2022 viral32111
 >
 >This program is free software: you can redistribute it and/or modify
 >it under the terms of the GNU General Public License as published by
